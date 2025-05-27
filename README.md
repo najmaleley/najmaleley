@@ -6,4 +6,3 @@
 💬 I'm currently learning about Data Analytics<br/>
 
 [![Najma's GitHub stats](https://github-readme-stats.vercel.app/api?username=najmaleley)]
-(https://github.com/anuraghazra/github-readme-stats)
